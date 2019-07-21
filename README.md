@@ -1,0 +1,1 @@
+# pyinstaller-pysoundfile-bug
