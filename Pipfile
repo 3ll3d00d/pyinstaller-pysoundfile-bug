@@ -7,7 +7,7 @@ name = "pypi"
 soundfile = "*"
 
 [dev-packages]
-pyinstaller = "*"
+pyinstaller = "==3.4"
 
 [requires]
 python_version = "3.7"
